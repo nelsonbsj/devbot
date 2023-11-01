@@ -1,0 +1,238 @@
+object(stdClass)[57]
+  public 'paginator' => 
+    object(stdClass)[59]
+      public 'total' => int 6002
+      public 'total_pages' => int 401
+      public 'current_page' => int 1
+      public 'per_page' => int 15
+  public 'links' => 
+    object(stdClass)[43]
+      public 'prev' => null
+      public 'next' => string 'https://api.escavador.com/api/v1/busca?q=BUSCA%20E%20APREENS%C3%83O%20TJAL&qo=t&limit=15&page=2' (length=95)
+  public 'items' => 
+    array (size=15)
+      0 => 
+        object(stdClass)[53]
+          public 'id' => int 92453542
+          public 'diario_id' => int 965885
+          public 'numero_pagina' => int 607
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2019-09-20' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'Centro, São Sebastião/AL, tel.: (82) 3542-1321, e-mail: saosebastiao@tjal.gov.br Autos n° 0700318-33.2019.8.02.0037 Ação: Busca e Apreensão Em Alienação Fiduciária Autor: Banco Bradesco Financiamentos S/A Réu: Shirley...última hipótese, somente se ambas as partes manifestaram desinteresse na composição consensual (art. 335 do CPC). Por fi m, vale destacar que as partes e seus procuradores devem promover a atualização do seu endereço residencial ou profi ssional sempre que ocorrer qualquer m'... (length=543)
+          public 'diario_edicao' => string '2429' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/965885/DJAL/jurisdicional-primeiro-grau/2019-09-20?page=607' (length=93)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/965885?page=607' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      1 => 
+        object(stdClass)[47]
+          public 'id' => int 461034502
+          public 'diario_id' => int 5624481
+          public 'numero_pagina' => int 237
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2023-03-01' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'da Justiça do TJAL. À escrivania determino ainda que, comprovada a busca e apreensão do bem nestes autos, remova imediatamente qualquer restrição lançada sobre o mesmo por este juízo no RENAJUD. Fica a Secretaria desde já advertida de que “Na ação...determinações: a) proceda à juntada do contrato que rege o negócio jurídico de financiamento firmado entre as partes, sob pena de indeferimento da inicial por inépcia, uma vez que o instrumento contratual é documento fundamental à propositura'... (length=718)
+          public 'diario_edicao' => string '3253' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5624481/DJAL/jurisdicional-primeiro-grau/2023-03-01?page=237' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5624481?page=237' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      2 => 
+        object(stdClass)[46]
+          public 'id' => int 467510635
+          public 'diario_id' => int 5633093
+          public 'numero_pagina' => int 201
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2023-03-17' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'da Justiça do TJAL. À escrivania determino ainda que, comprovada a busca e apreensão do bem nestes autos, remova imediatamente qualquer restrição lançada sobre o mesmo por este juízo no RENAJUD. Fica a Secretaria desde já advertida de que “Na...PEREIRA BOTELHO (OAB 64675/BA), ADV: ROBERTA BEATRIZ DO NASCIMENTO (OAB 14855/AL) - Processo 0715658-23.2022.8.02.0001 - Busca e Apreensão em Alienação Fiduciária - Alienação Fiduciária - AUTOR: Banco Pan Sa - RÉU: Leonidas Lima Barbosa Neto...' (length=507)
+          public 'diario_edicao' => string '3265' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5633093/DJAL/jurisdicional-primeiro-grau/2023-03-17?page=201' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5633093?page=201' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      3 => 
+        object(stdClass)[44]
+          public 'id' => int 241553134
+          public 'diario_id' => int 3241748
+          public 'numero_pagina' => int 557
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2020-06-04' (length=10)
+          public 'caderno' => string 'Jurisdicional e Administrativo' (length=30)
+          public 'caderno_url' => string 'jurisdicional-e-administrativo' (length=30)
+          public 'texto' => string '...autos orifinários) Em suas razões recursais (fls. 01/23), defendeu a parte agravante que o decisum merece ser reformado, vez o mesmo não está em consonância com o que prescreve a legislação pertinente e à jurisprudência consolidada do c. STJ e deste e. TJAL. Nesse sentido, afirmou que a decisão ora gravada não levou em consideração o disposto na Súmula 530 do STJ, a qual estabelece que a ação que discute contratos bancários pode ser iniciada sem a juntada do respectivo contrato pelo auto'... (length=545)
+          public 'diario_edicao' => string '2600' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/3241748/DJAL/jurisdicional-e-administrativo/2020-06-04?page=557' (length=97)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/3241748?page=557' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      4 => 
+        object(stdClass)[58]
+          public 'id' => int 480970434
+          public 'diario_id' => int 5650252
+          public 'numero_pagina' => int 45
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2023-05-04' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'busca e apreensão, alertando a parte autora dos meios necessários ao cumprimento do mandado, nos termos do provimento 15/2019, devendo a instituição financeira entrar...Oficial de Justiça responsável, a qual o mandado foi distribuído, por meio da Central de Mandados deste TJAL. Expedientes necessários. Maceió(AL), 02 de maio de 2023. Maurício César Breda ...assistentes técnicos e formulem quesitos. Com decurso deste prazo último, de- termino que intimem-se a parte autora pessoalmente, via corre'... (length=659)
+          public 'diario_edicao' => string '3295' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5650252/DJAL/jurisdicional-primeiro-grau/2023-05-04?page=45' (length=93)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5650252?page=45' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      5 => 
+        object(stdClass)[51]
+          public 'id' => int 416323120
+          public 'diario_id' => int 5564081
+          public 'numero_pagina' => int 124
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-09-14' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string '... FRASSETTO GOES (OAB 33416/SC) - Processo 0727241-05.2022.8.02.0001 - Busca e Apreensão em Alienação Fiduciária - Alienação Fiduciária - AUTORA: Aymoré...indicação de interposição de Agravo de Instrumento, aguarde-se a decisão do E.TJAL, acautelando-se os autos em cartório. Expedientes necessários. Maceió(AL), 12...fls. 21/24, houve o deferimento da tutela de urgência requerida, bem como inversão do ônus da prova e dos benefícios da justiça gratuita. Após ter sido devidamente citada'... (length=542)
+          public 'diario_edicao' => string '3143' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5564081/DJAL/jurisdicional-primeiro-grau/2022-09-14?page=124' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5564081?page=124' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      6 => 
+        object(stdClass)[41]
+          public 'id' => int 395258007
+          public 'diario_id' => int 5537500
+          public 'numero_pagina' => int 487
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-07-07' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'hora para as diligências de busca e apreensão, tendo em vista que os oficiais de Justiça responsáveis pelo cumprimento do respectivo...veículos automotores, conforme os arts. 444 e seguintes do Código de Normas do TJAL. Despicienda, com o novo Código de Ritos, a autorização...ou oficial de justiça, em meio reservado, data e hora para as diligências de busca e apreensão, tendo em vista que os oficiais de Justiça responsáveis pelo cumprimento do respectivo...veículos automotores, conforme os ar'... (length=622)
+          public 'diario_edicao' => string '3097' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5537500/DJAL/jurisdicional-primeiro-grau/2022-07-07?page=487' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5537500?page=487' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      7 => 
+        object(stdClass)[60]
+          public 'id' => int 474651440
+          public 'diario_id' => int 5642247
+          public 'numero_pagina' => int 431
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2023-04-12' (length=10)
+          public 'caderno' => string 'Jurisdicional e Administrativo' (length=30)
+          public 'caderno_url' => string 'jurisdicional-e-administrativo' (length=30)
+          public 'texto' => string '...COMPROVADA. SENTENÇA MANTIDA. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO. DECISÃO UNÂNIME. (TJAL - Número do Processo: 0706426-31.2015.8.02.0001; Relator (a):Des. Orlando Rocha Filho; Comarca:Foro de Maceió...4ª Câmara Cível; Data do julgamento: 15/03/2023; Data de registro: 16/03/2023) (Grifei) AGRAVODEINSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. DISCUSSÃO RECURSAL ACERCA DE ABUSIVIDADES CONTRATUAIS. NÃO CONHECIMENTO SOB PENA DE...' (length=446)
+          public 'diario_edicao' => string '3281' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5642247/DJAL/jurisdicional-e-administrativo/2023-04-12?page=431' (length=97)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5642247?page=431' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      8 => 
+        object(stdClass)[61]
+          public 'id' => int 388857136
+          public 'diario_id' => int 5528367
+          public 'numero_pagina' => int 512
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-06-13' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string '43 e 44, do Provimento n. 45/2016 CGJ/TJAL, desincumba-se das providências a seu cargo e viabilize o cumprimento da diligência pelo Oficial de Justiça a quem o mandado de busca e apreensão for distribuído. Transcorrido o lapso e não tendo havido contato pessoal do representante da parte autora com o oficial de justiça, o mandado deverá...de comunicação com antecedência mínima de 10 (dez) dias (art. 4º, §5º e §6º, da Resolução nº 19/2020/TJAL, e art. 11 da Resolução n. 354/2020 do CNJ).'... (length=607)
+          public 'diario_edicao' => string '3081' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5528367/DJAL/jurisdicional-primeiro-grau/2022-06-13?page=512' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5528367?page=512' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      9 => 
+        object(stdClass)[62]
+          public 'id' => int 397432099
+          public 'diario_id' => int 5540814
+          public 'numero_pagina' => int 280
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-07-15' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string '2ª Câmara Cível do TJAL, tendo como relatora a eminente Des. Elisabeth Carvalho Nascimento). AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DE FINANCIAMENTO COM ALIENAÇÃO FIDUCIÁRIA.CABIMENTO DO...pois, os requisitos necessários, DEFIRO a medida cautelar requerida, ao tempo que determino: Expeça-se mandado de busca e apreensão de 01 (um) veículo marca Honda, modelo Civic, ano/modelo 2016/2016, cor CINZA, Código de RENAVAM...' (length=454)
+          public 'diario_edicao' => string '3103' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5540814/DJAL/jurisdicional-primeiro-grau/2022-07-15?page=280' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5540814?page=280' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      10 => 
+        object(stdClass)[63]
+          public 'id' => int 435123860
+          public 'diario_id' => int 5589176
+          public 'numero_pagina' => int 265
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-11-22' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'a imediata BUSCA E APREENSÃO DO BEM DESCRITO NA EXORDIAL e demais diligências necessárias. Determino...NCPC e art. 38 do provimento Nº 45, de 10 de novembro de 2016, da Corregedoria-Geral da Justiça do TJAL. Autorizo a nomeação para o encargo de fiel depositário o representante legal da parte autora, por ela nomeado, conforme...liminar. Fica a parte autora INTIMADA de que compete a ela fornecer os meios necessários para cumprimento do mandado de busca e apreensão, e que fica proibida em qualquer h'... (length=608)
+          public 'diario_edicao' => string '3187' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5589176/DJAL/jurisdicional-primeiro-grau/2022-11-22?page=265' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5589176?page=265' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      11 => 
+        object(stdClass)[64]
+          public 'id' => int 341363392
+          public 'diario_id' => int 5282235
+          public 'numero_pagina' => int 332
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2021-11-25' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string '...AUTORA intimada para se manifestar em 05 dias a respeito deles. ADV: FLÁVIO NEVES COSTA (OAB 153447/SP) - Processo 0706135-44.2021.8.02.0058 - Busca e Apreensão em Alienação Fiduciária - Alienação Fiduciária - AUTOR: Banco Volkswagen S/A - Em cumprimento ao Provimento...será disponibilizado a guia para o recolhimento das custas complementares. Em caso de dúvidas, a CJU prestará auxílio através do e-mail: contadoria@tjal.jus.br . ou pelo telefone: 4009 3541. ADV: PEDRO ROBERTO ROMÃO (OAB 209'... (length=572)
+          public 'diario_edicao' => string '2949' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5282235/DJAL/jurisdicional-primeiro-grau/2021-11-25?page=332' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5282235?page=332' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      12 => 
+        object(stdClass)[65]
+          public 'id' => int 448348380
+          public 'diario_id' => int 5611153
+          public 'numero_pagina' => int 455
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2023-01-30' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string '45/2016 CGJ/TJAL, desincumba-se das providências a seu cargo e viabilize o cumprimento da diligência pelo Oficial de Justiça a quem o mandado de busca e apreensão for distribuído.” ADV: KARLLY ANNE ..., §3º, III do Ato Normativo 11/2020 TJAL, encerrou-se o presente termo, o qual será assinado eletronicamente e juntado no SAJ, nos termos do art. 8º do Ato ... 8736A/AL) - Processo 0700821-86.2022.8.02.0057 - Busca e Apreensão em Alienação Fiduciária - Alienação Fiduciária...' (length=495)
+          public 'diario_edicao' => string '3234' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5611153/DJAL/jurisdicional-primeiro-grau/2023-01-30?page=455' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5611153?page=455' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      13 => 
+        object(stdClass)[66]
+          public 'id' => int 417468561
+          public 'diario_id' => int 5565816
+          public 'numero_pagina' => int 412
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-09-19' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string '...aceitação e para que indique data para a realização da perícia, no prazo de 5 (cinco) dias. 5. Arbitro, desde logo, os honorários periciais no valor de R$ 250,00 (duzentos e cinquenta reais), nos termos da cláusula segunda do Convênio n.º 048/2018, firmado entre o E. TJAL e a Seguradora Líder dos Consórcios do Seguro DPVAT. 6. Após a realização da perícia, intime-se a requerida para efetuar o pagamento em até 15 (quinze) dias úteis a contar do recebimento da intimação, para as perícia'... (length=525)
+          public 'diario_edicao' => string '3145' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5565816/DJAL/jurisdicional-primeiro-grau/2022-09-19?page=412' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5565816?page=412' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      14 => 
+        object(stdClass)[67]
+          public 'id' => int 419128077
+          public 'diario_id' => int 5567975
+          public 'numero_pagina' => int 270
+          public 'diario_sigla' => string 'DJAL' (length=4)
+          public 'diario_nome' => string 'Diário de Justiça do Estado de Alagoas' (length=40)
+          public 'diario_data' => string '2022-09-23' (length=10)
+          public 'caderno' => string 'Jurisdicional - Primeiro Grau' (length=29)
+          public 'caderno_url' => string 'jurisdicional-primeiro-grau' (length=27)
+          public 'texto' => string 'a imediata BUSCA E APREENSÃO DO BEM DESCRITO NA EXORDIAL e demais diligências necessárias. ... e art. 38 do provimento Nº 45, de 10 de novembro de 2016, da Corregedoria-Geral da Justiça do TJAL. Autorizo a nomeação para o encargo de fiel depositário o representante legal da parte autora, por ela nomeado...ROBERTA BEATRIZ DO NASCIMENTO (OAB 192649/SP) - Processo 0732066-89.2022.8.02.0001 - Busca e Apreensão em Alienação Fiduciária - Alienação Fiduciária - AUTOR: Banco Volkswagen...' (length=500)
+          public 'diario_edicao' => string '3149' (length=4)
+          public 'link' => string 'https://www.escavador.com/diarios/5567975/DJAL/jurisdicional-primeiro-grau/2022-09-23?page=270' (length=94)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/5567975?page=270' (length=57)
+          public 'tipo_resultado' => string 'Diario' (length=6)

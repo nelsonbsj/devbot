@@ -1,0 +1,132 @@
+object(stdClass)[58]
+  public 'id' => int 6568277
+  public 'nome' => string 'Busca e Apreensão' (length=18)
+  public 'sigla' => null
+  public 'pais' => string 'Brasil' (length=6)
+  public 'ultimos_processos' => 
+    array (size=5)
+      0 => 
+        object(stdClass)[56]
+          public 'id' => int 17903727
+          public 'numero_antigo' => string '405.01.2012.026460' (length=18)
+          public 'numero_novo' => string '0026460-56.2012.8.26.0405' (length=25)
+          public 'is_cnj' => int 1
+          public 'enviado_trimon_em' => string '2022-04-10 20:03:26' (length=19)
+          public 'created_at' => null
+          public 'updated_at' => null
+          public 'origem_tribunal_id' => int 102
+          public 'filtrado_em' => null
+          public 'enviado_nursery_em' => null
+          public 'tipo_envolvido' => string 'ASSUNTO' (length=7)
+          public 'link' => string 'https://www.escavador.com/processos/17903727/processo-0026460-5620128260405-do-diario-de-justica-do-estado-de-sao-paulo' (length=119)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/processos/17903727' (length=51)
+          public 'data_movimentacoes' => string '04/02/2014 a 18/05/2016' (length=23)
+          public 'data_primeira_movimentacao' => string '04/02/2014' (length=10)
+          public 'envolvidos_ultima_movimentacao' => 
+            array (size=7)
+              ...
+          public 'url' => 
+            object(stdClass)[59]
+              ...
+      1 => 
+        object(stdClass)[60]
+          public 'id' => int 18398236
+          public 'numero_antigo' => null
+          public 'numero_novo' => string '1011456-67.2013.8.26.0100' (length=25)
+          public 'is_cnj' => int 1
+          public 'enviado_trimon_em' => string '2022-04-10 10:40:59' (length=19)
+          public 'created_at' => null
+          public 'updated_at' => null
+          public 'origem_tribunal_id' => int 102
+          public 'filtrado_em' => null
+          public 'enviado_nursery_em' => null
+          public 'tipo_envolvido' => string 'AÇÃO' (length=6)
+          public 'link' => string 'https://www.escavador.com/processos/18398236/processo-1011456-6720138260100-do-diario-de-justica-do-estado-de-sao-paulo' (length=119)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/processos/18398236' (length=51)
+          public 'data_movimentacoes' => string '20/02/2014 a 20/07/2018' (length=23)
+          public 'data_primeira_movimentacao' => string '20/02/2014' (length=10)
+          public 'envolvidos_ultima_movimentacao' => 
+            array (size=5)
+              ...
+          public 'url' => 
+            object(stdClass)[66]
+              ...
+      2 => 
+        object(stdClass)[67]
+          public 'id' => int 18443601
+          public 'numero_antigo' => null
+          public 'numero_novo' => string '1039351-03.2013.8.26.0100' (length=25)
+          public 'is_cnj' => int 1
+          public 'enviado_trimon_em' => string '2022-04-10 09:50:13' (length=19)
+          public 'created_at' => null
+          public 'updated_at' => null
+          public 'origem_tribunal_id' => int 102
+          public 'filtrado_em' => null
+          public 'enviado_nursery_em' => null
+          public 'tipo_envolvido' => string 'AÇÃO' (length=6)
+          public 'link' => string 'https://www.escavador.com/processos/18443601/processo-1039351-0320138260100-do-diario-de-justica-do-estado-de-sao-paulo' (length=119)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/processos/18443601' (length=51)
+          public 'data_movimentacoes' => string '06/02/2014 a 16/06/2016' (length=23)
+          public 'data_primeira_movimentacao' => string '06/02/2014' (length=10)
+          public 'envolvidos_ultima_movimentacao' => 
+            array (size=6)
+              ...
+          public 'url' => 
+            object(stdClass)[74]
+              ...
+      3 => 
+        object(stdClass)[75]
+          public 'id' => int 21030271
+          public 'numero_antigo' => null
+          public 'numero_novo' => string '1030686-95.2013.8.26.0100' (length=25)
+          public 'is_cnj' => int 1
+          public 'enviado_trimon_em' => string '2022-04-08 07:58:35' (length=19)
+          public 'created_at' => null
+          public 'updated_at' => null
+          public 'origem_tribunal_id' => int 102
+          public 'filtrado_em' => null
+          public 'enviado_nursery_em' => null
+          public 'tipo_envolvido' => string 'AÇÃO' (length=6)
+          public 'link' => string 'https://www.escavador.com/processos/21030271/processo-1030686-9520138260100-do-diario-de-justica-do-estado-de-sao-paulo' (length=119)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/processos/21030271' (length=51)
+          public 'data_movimentacoes' => string '11/04/2014 a 09/03/2016' (length=23)
+          public 'data_primeira_movimentacao' => string '11/04/2014' (length=10)
+          public 'envolvidos_ultima_movimentacao' => 
+            array (size=4)
+              ...
+          public 'url' => 
+            object(stdClass)[80]
+              ...
+      4 => 
+        object(stdClass)[81]
+          public 'id' => int 24596164
+          public 'numero_antigo' => string '036.82.0130.004101' (length=18)
+          public 'numero_novo' => string '0004101-92.2013.8.26.0368' (length=25)
+          public 'is_cnj' => int 1
+          public 'enviado_trimon_em' => string '2022-03-31 09:46:55' (length=19)
+          public 'created_at' => null
+          public 'updated_at' => null
+          public 'origem_tribunal_id' => int 102
+          public 'filtrado_em' => null
+          public 'enviado_nursery_em' => null
+          public 'tipo_envolvido' => string 'AÇÃO' (length=6)
+          public 'link' => string 'https://www.escavador.com/processos/24596164/processo-0004101-9220138260368-do-diario-de-justica-do-estado-de-sao-paulo' (length=119)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/processos/24596164' (length=51)
+          public 'data_movimentacoes' => string '29/01/2014 a 21/11/2018' (length=23)
+          public 'data_primeira_movimentacao' => string '29/01/2014' (length=10)
+          public 'envolvidos_ultima_movimentacao' => 
+            array (size=5)
+              ...
+          public 'url' => 
+            object(stdClass)[87]
+              ...
+  public 'quantidade_processos' => int 10
+  public 'estados_com_mais_processos' => 
+    array (size=1)
+      0 => 
+        object(stdClass)[88]
+          public 'estado' => string 'São Paulo' (length=10)
+          public 'qtd' => int 10
+  public 'link' => string 'https://www.escavador.com/sobre/191377374/busca-e-apreensao' (length=59)
+  public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/6568277' (length=53)
+  public 'created_at' => string '2016-02-16 23:08:14' (length=19)

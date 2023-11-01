@@ -1,0 +1,1516 @@
+C:\wamp64\www\devbot\application\controllers\Consulta.php:50:
+object(stdClass)[54]
+  public 'paginator' => 
+    object(stdClass)[56]
+      public 'total' => int 30000
+      public 'total_pages' => int 500
+      public 'current_page' => int 1
+      public 'per_page' => int 60
+  public 'links' => 
+    object(stdClass)[40]
+      public 'prev' => null
+      public 'next' => string 'https://api.escavador.com/api/v1/busca?q=Busca%20e%20Apreens%C3%A3o&qo=t&limit=60&page=2' (length=88)
+  public 'items' => 
+    array (size=70)
+      0 => 
+        object(stdClass)[50]
+          public 'id' => int 28630272
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensao possui 526 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24644694/itau-seguros-s-a' title='Itaú Seguros S/A'>Itaú Seguros S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/128326011/irani-cardoso' title='Irani Cardoso'>Irani Cardoso</a'... (length=530)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 526
+          public 'tipos_juridico' => 
+            array (size=3)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao' (length=17)
+          public 'url_id' => int 155710126
+          public 'link' => string 'https://www.escavador.com/sobre/155710126/busca-e-apreensao' (length=59)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/28630272' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      1 => 
+        object(stdClass)[55]
+          public 'id' => int 6568277
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão possui 10 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24553183/sao-paulo' title='São Paulo'>São Paulo</a> foi a parte que mais apareceu, totalizando 9 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/29122168/campinas' title='Campinas'>Campinas</a> com 8 ou mais processos. ' (length=511)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 10
+          public 'tipos_juridico' => 
+            array (size=3)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao' (length=17)
+          public 'url_id' => int 191377374
+          public 'link' => string 'https://www.escavador.com/sobre/191377374/busca-e-apreensao' (length=59)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/6568277' (length=53)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      2 => 
+        object(stdClass)[58]
+          public 'id' => int 38744374
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão possui 119 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26705312/banco-bradesco-financiamentos-s-a' title='Banco Bradesco Financiamentos S/A'>Banco Bradesco Financiamentos S/A</a> foi a parte que mais apareceu, totalizando 8 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/24563485/'... (length=607)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 119
+          public 'tipos_juridico' => 
+            array (size=10)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao' (length=17)
+          public 'url_id' => int 286847237
+          public 'link' => string 'https://www.escavador.com/sobre/286847237/busca-e-apreensao' (length=59)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/38744374' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      3 => 
+        object(stdClass)[69]
+          public 'id' => int 49920975
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: 9104-Busca e Apreensao possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Goiás.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/10046683/ildebrando-loures-de-mendonca' title='Ildebrando Loures de Mendonca'>Ildebrando Loures de Mendonca</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/351455472/1a-vara-federal' title='1A '... (length=562)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string '9104-busca-e-apreensao' (length=22)
+          public 'url_id' => int 388367385
+          public 'link' => string 'https://www.escavador.com/sobre/388367385/9104-busca-e-apreensao' (length=64)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/49920975' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      4 => 
+        object(stdClass)[71]
+          public 'id' => int 52666034
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão - Nº possui 13 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24553183/sao-paulo' title='São Paulo'>São Paulo</a> foi a parte que mais apareceu, totalizando 7 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/29122168/campinas' title='Campinas'>Campinas</a> com 2 ou mais proces'... (length=517)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 13
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n' (length=19)
+          public 'url_id' => int 421030402
+          public 'link' => string 'https://www.escavador.com/sobre/421030402/busca-e-apreensao-n' (length=61)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/52666034' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      5 => 
+        object(stdClass)[73]
+          public 'id' => int 62039066
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Paraná.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24994896/itau-unibanco-s-a' title='Itau Unibanco S/A'>Itau Unibanco S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/347445040/custodio-correia-dos-santos' title='Custodio Correia dos Santos'>C'... (length=559)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao' (length=17)
+          public 'url_id' => int 538154158
+          public 'link' => string 'https://www.escavador.com/sobre/538154158/busca-e-apreensao' (length=59)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/62039066' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      6 => 
+        object(stdClass)[75]
+          public 'id' => int 63087652
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Mato Grosso do Sul.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27082348/banco-volkswagen-s-a' title='Banco Volkswagen S/A'>Banco Volkswagen S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/530534244/maria-helena-mosciaro' title='Maria '... (length=571)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 5
+          public 'tipos_juridico' => 
+            array (size=4)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao' (length=17)
+          public 'url_id' => int 553535510
+          public 'link' => string 'https://www.escavador.com/sobre/553535510/busca-e-apreensao' (length=59)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/63087652' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      7 => 
+        object(stdClass)[80]
+          public 'id' => int 65220086
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo. ' (length=169)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 2
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n' (length=19)
+          public 'url_id' => int 572850766
+          public 'link' => string 'https://www.escavador.com/sobre/572850766/busca-e-apreensao-n' (length=61)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65220086' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      8 => 
+        object(stdClass)[81]
+          public 'id' => int 65390503
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 5068553-54.2018.8.09.0164 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-5068553-5420188090164' (length=41)
+          public 'url_id' => int 574768724
+          public 'link' => string 'https://www.escavador.com/sobre/574768724/busca-e-apreensao-n-5068553-5420188090164' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65390503' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      9 => 
+        object(stdClass)[82]
+          public 'id' => int 65444347
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 1117349-42.2016.8.26.0100 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-1117349-4220168260100' (length=41)
+          public 'url_id' => int 575311279
+          public 'link' => string 'https://www.escavador.com/sobre/575311279/busca-e-apreensao-n-1117349-4220168260100' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65444347' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      10 => 
+        object(stdClass)[83]
+          public 'id' => int 65459114
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 1000639-21.2018.8.26.0341 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-1000639-2120188260341' (length=41)
+          public 'url_id' => int 575578229
+          public 'link' => string 'https://www.escavador.com/sobre/575578229/busca-e-apreensao-n-1000639-2120188260341' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65459114' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      11 => 
+        object(stdClass)[84]
+          public 'id' => int 65471792
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 1008245-78.2018.8.26.0704 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-1008245-7820188260704' (length=41)
+          public 'url_id' => int 575686351
+          public 'link' => string 'https://www.escavador.com/sobre/575686351/busca-e-apreensao-n-1008245-7820188260704' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65471792' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      12 => 
+        object(stdClass)[85]
+          public 'id' => int 13396296
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão (Nº 1001244-64.2015.8.26.0666 - Vara Única/Foro de Artur Nogueira) - Cooperativa de Crédito de Livre Admissão de Associados de Holambra possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=295)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-apreensao-n-1001244-6420158260666-vara-unica-foro-artur-nogueira' (length=70)
+          public 'url_id' => int 575693562
+          public 'link' => string 'https://www.escavador.com/sobre/575693562/busca-apreensao-n-1001244-6420158260666-vara-unica-foro-artur-nogueira' (length=112)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/13396296' (length=54)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      13 => 
+        object(stdClass)[86]
+          public 'id' => int 65513923
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 0035329-16.2012.8.13.0390 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-0035329-1620128130390' (length=41)
+          public 'url_id' => int 576395828
+          public 'link' => string 'https://www.escavador.com/sobre/576395828/busca-e-apreensao-n-0035329-1620128130390' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65513923' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      14 => 
+        object(stdClass)[87]
+          public 'id' => int 65517622
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 1006255-16.2018.8.26.0037 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-1006255-1620188260037' (length=41)
+          public 'url_id' => int 576500914
+          public 'link' => string 'https://www.escavador.com/sobre/576500914/busca-e-apreensao-n-1006255-1620188260037' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65517622' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      15 => 
+        object(stdClass)[88]
+          public 'id' => int 13425401
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão (Nº 1008072-88.2017.8.26.0510 - 1ª Vara Judicial da Comarca de Caçapava/Sp) - C.C.L.A.S.U.C.L.P.S.U.C.L.P. - e.R.C possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=273)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-apreensao-n-1008072-8820178260510-1-vara-judicial-comarca-cacapava-sp' (length=75)
+          public 'url_id' => int 576750731
+          public 'link' => string 'https://www.escavador.com/sobre/576750731/busca-apreensao-n-1008072-8820178260510-1-vara-judicial-comarca-cacapava-sp' (length=117)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/13425401' (length=54)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      16 => 
+        object(stdClass)[89]
+          public 'id' => int 65550414
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 0014734-06.2018.8.16.0033 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-0014734-0620188160033' (length=41)
+          public 'url_id' => int 576770403
+          public 'link' => string 'https://www.escavador.com/sobre/576770403/busca-e-apreensao-n-0014734-0620188160033' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65550414' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      17 => 
+        object(stdClass)[90]
+          public 'id' => int 13427442
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão (Nº 1004450-35.2018.8.26.0358 - 2ª Vara Judicial da Comarca de Mirassol) - G possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=234)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-apreensao-n-1004450-3520188260358-2-vara-judicial-comarca-mirassol-g' (length=74)
+          public 'url_id' => int 576877761
+          public 'link' => string 'https://www.escavador.com/sobre/576877761/busca-apreensao-n-1004450-3520188260358-2-vara-judicial-comarca-mirassol-g' (length=116)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/13427442' (length=54)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      18 => 
+        object(stdClass)[91]
+          public 'id' => int 65597460
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão possui 13 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Ceará.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24646869/banco-safra-s-a' title='Banco Safra S/A'>Banco Safra S/A</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27082348/banco-volkswagen-s-a' title='Banco Volkswagen S/A'>Ban'... (length=559)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 13
+          public 'tipos_juridico' => 
+            array (size=7)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao' (length=17)
+          public 'url_id' => int 577349154
+          public 'link' => string 'https://www.escavador.com/sobre/577349154/busca-e-apreensao' (length=59)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65597460' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      19 => 
+        object(stdClass)[99]
+          public 'id' => int 13442472
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão (Nº 1000909-14-2018 - 2ª Vara do Foro da Comarca de Lençóis Paulista/Sp) - Omni S/A - Crédito, Financiamento e Investimento possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=284)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-apreensao-n-1000909-14-2018-2-vara-foro-comarca-lencois-paulista-sp-omni-s' (length=80)
+          public 'url_id' => int 577703361
+          public 'link' => string 'https://www.escavador.com/sobre/577703361/busca-apreensao-n-1000909-14-2018-2-vara-foro-comarca-lencois-paulista-sp-omni-s' (length=122)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/13442472' (length=54)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      20 => 
+        object(stdClass)[100]
+          public 'id' => int 65619062
+          public 'nome' => string 'Busca e Apreensão' (length=18)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Nº 1007759-91.2017.8.26.0037 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=185)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-1007759-9120178260037' (length=41)
+          public 'url_id' => int 577748997
+          public 'link' => string 'https://www.escavador.com/sobre/577748997/busca-e-apreensao-n-1007759-9120178260037' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65619062' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:36:24' (length=19)
+          public 'tem_patente' => int 0
+      21 => 
+        object(stdClass)[101]
+          public 'id' => int 54827573
+          public 'nome' => string 'Sob Pena de Busca e Apreensão. Desconsiderar a Presente Caso os Autos Tenham Sido Devolvidos Antes da Publicação Desta' (length=121)
+          public 'resumo' => string 'De acordo com os dados indexados: Sob Pena de Busca e Apreensão. Desconsiderar A Presente Caso Os Autos Tenham Sido Devolvidos Antes da Publicação Desta possui 6935 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio Grande do Sul. ' (length=278)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 6935
+          public 'tipos_juridico' => 
+            array (size=2)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'sob-pena-busca-apreensao-desconsiderar-presente-caso-autos-tenham-sido' (length=70)
+          public 'url_id' => int 446096036
+          public 'link' => string 'https://www.escavador.com/sobre/446096036/sob-pena-busca-apreensao-desconsiderar-presente-caso-autos-tenham-sido' (length=112)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/54827573' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-08-15 15:28:05' (length=19)
+          public 'tem_patente' => int 0
+      22 => 
+        object(stdClass)[104]
+          public 'id' => int 5554398
+          public 'nome' => string 'Busca e Apreensão Em Alienação Fiduciária' (length=45)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Em Alienação Fiduciária possui 1068 processos indexados, até então, pelo Escavador. Com 689 processos no Estado da Bahia, além de 211 processos no Estado de São Paulo. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27084113/aymore-credito-financiamento-e-investimento-s-a' title='Aymore Credito Financiamento e Investimento S/A'>Aymore Credito Financiamento e Investimento S/A</a> foi a parte que mais apareceu, totaliza'... (length=691)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 1068
+          public 'tipos_juridico' => 
+            array (size=10)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-em-alienacao-fiduciaria' (length=41)
+          public 'url_id' => int 134111673
+          public 'link' => string 'https://www.escavador.com/sobre/134111673/busca-e-apreensao-em-alienacao-fiduciaria' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/5554398' (length=53)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-25 02:03:21' (length=19)
+          public 'tem_patente' => int 0
+      23 => 
+        object(stdClass)[115]
+          public 'id' => int 12705490
+          public 'nome' => string 'Sob Pena de Busca e Apreensão' (length=30)
+          public 'resumo' => string 'De acordo com os dados indexados: Para Devolver Os Autos no Prazo de 02 Dias, Sob Pena de Busca e Apreensão. possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/12927849/joao-bosco-pascoalon' title='Joao Bosco Pascoalon'>Joao Bosco Pascoalon</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/24842'... (length=649)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'para-devolver-os-autos-no-prazo-de-02-dias-sob-pena-de-busca-e-apreensao' (length=72)
+          public 'url_id' => int 12927852
+          public 'link' => string 'https://www.escavador.com/sobre/12927852/para-devolver-os-autos-no-prazo-de-02-dias-sob-pena-de-busca-e-apreensao' (length=113)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/12705490' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-08-10 19:29:34' (length=19)
+          public 'tem_patente' => int 0
+      24 => 
+        object(stdClass)[117]
+          public 'id' => int 82838622
+          public 'nome' => string '9582 Busca e Apreensão' (length=23)
+          public 'resumo' => string 'De acordo com os dados indexados: 9582 Busca e Apreensão possui 28 processos indexados, até então, pelo Escavador. Com todos os seus processos no Distrito Federal.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25852034/aymore-credito-financiamento-e-investimento-s-a' title='Aymore Credito, Financiamento e Investimento S/A'>Aymore Credito, Financiamento e Investimento S/A</a> foi a parte que mais apareceu, totalizando 7 ou mais processos, seguida por <a class='link -color'... (length=689)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 28
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string '9582-busca-e-apreensao' (length=22)
+          public 'url_id' => int 822162351
+          public 'link' => string 'https://www.escavador.com/sobre/822162351/9582-busca-e-apreensao' (length=64)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/82838622' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-07 01:55:23' (length=19)
+          public 'tem_patente' => int 0
+      25 => 
+        object(stdClass)[119]
+          public 'id' => int 43213323
+          public 'nome' => string 'Mandado Busca e Apreensão' (length=26)
+          public 'resumo' => string 'De acordo com os dados indexados: Mandado Busca e Apreensão possui 31 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo. ' (length=174)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 31
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'mandado-busca-e-apreensao' (length=25)
+          public 'url_id' => int 321730285
+          public 'link' => string 'https://www.escavador.com/sobre/321730285/mandado-busca-e-apreensao' (length=67)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/43213323' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-06 20:26:20' (length=19)
+          public 'tem_patente' => int 0
+      26 => 
+        object(stdClass)[120]
+          public 'id' => int 65129725
+          public 'nome' => string 'Busca e Apreensão Criminal' (length=27)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Criminal possui 12 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo. ' (length=175)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 12
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-criminal' (length=26)
+          public 'url_id' => int 571943039
+          public 'link' => string 'https://www.escavador.com/sobre/571943039/busca-e-apreensao-criminal' (length=68)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65129725' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-31 19:11:47' (length=19)
+          public 'tem_patente' => int 0
+      27 => 
+        object(stdClass)[121]
+          public 'id' => int 51713855
+          public 'nome' => string 'Busca e Apreensão de Menores' (length=29)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão de Menores possui 73 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo. ' (length=177)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 73
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-de-menores' (length=28)
+          public 'url_id' => int 407400441
+          public 'link' => string 'https://www.escavador.com/sobre/407400441/busca-e-apreensao-de-menores' (length=70)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/51713855' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-06 21:20:53' (length=19)
+          public 'tem_patente' => int 0
+      28 => 
+        object(stdClass)[122]
+          public 'id' => int 32664591
+          public 'nome' => string 'Roberto Trigueiro Fontes 3a Vara Cível da Comarca de Uberaba Busca e Apreensão Em Alienação Fiduciária' (length=107)
+          public 'resumo' => string 'De acordo com os dados indexados: Roberto Trigueiro Fontes 3A Vara Cível da Comarca de Uberaba Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 350 processos indexados, até então, pelo Escavador. Com 120 processos no Estado do Mato Grosso do Sul, além de 77 processos no Estado do Espírito Santo. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27106105/gr-servicos-e-alimentacao-ltda' title='Gr Servicos e Alimentacao Ltda'>Gr Servicos e Alimentacao Ltda'... (length=1120)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 350
+          public 'tipos_juridico' => 
+            array (size=2)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'roberto-trigueiro-fontes-5a-vara-civel-comarca-juiz-fora-busca-apreensao-em' (length=75)
+          public 'url_id' => int 211190299
+          public 'link' => string 'https://www.escavador.com/sobre/211190299/roberto-trigueiro-fontes-5a-vara-civel-comarca-juiz-fora-busca-apreensao-em' (length=117)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/32664591' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-05-05 00:20:09' (length=19)
+          public 'tem_patente' => int 0
+      29 => 
+        object(stdClass)[125]
+          public 'id' => int 32198604
+          public 'nome' => string 'Eduardo Landi Nowill 2ª Vara Cível da Comarca de Contagem Busca e Apreensão Em Alienação Fiduciária' (length=105)
+          public 'resumo' => string 'De acordo com os dados indexados: Eduardo Landi Nowill 2ª Vara Cível da Comarca de Contagem Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 340 processos indexados, até então, pelo Escavador. Com 264 processos no Estado de São Paulo, além de 43 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25546607/yara-brasil-fertilizantes-s-a' title='Yara Brasil Fertilizantes S/A'>Yara Brasil Fertilizantes S/A</a> foi a parte que mais aparec'... (length=1130)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 340
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'eduardo-landi-nowill-2-vara-civel-comarca-contagem-busca-apreensao-em-alienacao' (length=79)
+          public 'url_id' => int 206088696
+          public 'link' => string 'https://www.escavador.com/sobre/206088696/eduardo-landi-nowill-2-vara-civel-comarca-contagem-busca-apreensao-em-alienacao' (length=121)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/32198604' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-05-04 17:33:58' (length=19)
+          public 'tem_patente' => int 0
+      30 => 
+        object(stdClass)[127]
+          public 'id' => int 76451032
+          public 'nome' => string 'Busca e Apreensão N' (length=20)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão N. 8000367-24.2017.8.05.0050 possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26705312/banco-bradesco-financiamentos-s-a' title='Banco Bradesco Financiamentos S/A'>Banco Bradesco Financiamentos S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/3'... (length=628)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-n-8000367-2420178050050' (length=41)
+          public 'url_id' => int 725195349
+          public 'link' => string 'https://www.escavador.com/sobre/725195349/busca-e-apreensao-n-8000367-2420178050050' (length=83)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/76451032' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-06 03:00:33' (length=19)
+          public 'tem_patente' => int 0
+      31 => 
+        object(stdClass)[129]
+          public 'id' => int 7413275
+          public 'nome' => string 'Pedido de Busca e Apreensão Criminal' (length=37)
+          public 'resumo' => string 'De acordo com os dados indexados: Pedido de Busca e Apreensão Criminal possui 10 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/230269445/delegacia-de-defesa-da-mulher-de-sjcampos' title='Delegacia de Defesa da Mulher de Sjcampos'>Delegacia de Defesa da Mulher de Sjcampos</a> foi a parte que mais apareceu, com 1 processo.' (length=460)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 10
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'pedido-de-busca-e-apreensao-criminal' (length=36)
+          public 'url_id' => int 230269444
+          public 'link' => string 'https://www.escavador.com/sobre/230269444/pedido-de-busca-e-apreensao-criminal' (length=78)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/7413275' (length=53)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-13 12:55:16' (length=19)
+          public 'tem_patente' => int 0
+      32 => 
+        object(stdClass)[131]
+          public 'id' => int 54773150
+          public 'nome' => string 'Expedido Mandado de Busca e Apreensão' (length=38)
+          public 'resumo' => string 'De acordo com os dados indexados: Expedido Mandado de Busca e Apreensão possui 70 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio Grande do Sul. ' (length=193)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 70
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'expedido-mandado-de-busca-e-apreensao' (length=37)
+          public 'url_id' => int 445202377
+          public 'link' => string 'https://www.escavador.com/sobre/445202377/expedido-mandado-de-busca-e-apreensao' (length=79)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/54773150' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-24 09:21:39' (length=19)
+          public 'tem_patente' => int 0
+      33 => 
+        object(stdClass)[132]
+          public 'id' => int 33263565
+          public 'nome' => string 'Rafael Benedet Camisao Busca e Apreensão Em Alienação Fiduciária' (length=68)
+          public 'resumo' => string 'De acordo com os dados indexados: Rafael Benedet Camisao Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 252 processos indexados, até então, pelo Escavador. Com 220 processos no Estado de Santa Catarina, além de 13 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24571860/clemar-engenharia-ltda' title='Clemar Engenharia Ltda'>Clemar Engenharia Ltda</a> foi a parte que mais apareceu, totalizando 13 ou mais processos, seguida por <a c'... (length=637)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 252
+          public 'tipos_juridico' => 
+            array (size=3)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'rafael-benedet-camisao-busca-e-apreensao-em-alienacao-fiduciaria' (length=64)
+          public 'url_id' => int 218190356
+          public 'link' => string 'https://www.escavador.com/sobre/218190356/rafael-benedet-camisao-busca-e-apreensao-em-alienacao-fiduciaria' (length=106)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/33263565' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-27 03:39:51' (length=19)
+          public 'tem_patente' => int 0
+      34 => 
+        object(stdClass)[136]
+          public 'id' => int 42093999
+          public 'nome' => string 'Requerimento Busca e Apreensão' (length=31)
+          public 'resumo' => string 'De acordo com os dados indexados: Requerimento Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27088193/banco-john-deere-s-a' title='Banco John Deere S/A'>Banco John Deere S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/251891383/heinz-kudiess' title='Heinz Kudiess'>Heinz Kud'... (length=537)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'requerimento-busca-e-apreensao' (length=30)
+          public 'url_id' => int 312672022
+          public 'link' => string 'https://www.escavador.com/sobre/312672022/requerimento-busca-e-apreensao' (length=72)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/42093999' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-04 23:01:18' (length=19)
+          public 'tem_patente' => int 0
+      35 => 
+        object(stdClass)[138]
+          public 'id' => int 92529533
+          public 'nome' => string '8960 Busca e Apreensão' (length=23)
+          public 'resumo' => string 'De acordo com os dados indexados: 8960 Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Distrito Federal.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25852034/aymore-credito-financiamento-e-investimento-s-a' title='Aymore Credito, Financiamento e Investimento S/A'>Aymore Credito, Financiamento e Investimento S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.'... (length=652)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string '8960-busca-e-apreensao' (length=22)
+          public 'url_id' => int 967406517
+          public 'link' => string 'https://www.escavador.com/sobre/967406517/8960-busca-e-apreensao' (length=64)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/92529533' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-09 18:28:59' (length=19)
+          public 'tem_patente' => int 0
+      36 => 
+        object(stdClass)[140]
+          public 'id' => int 75326184
+          public 'nome' => string 'Inicial Busca e Apreensão' (length=26)
+          public 'resumo' => string 'De acordo com os dados indexados: Inicial - Busca e Apreensão possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo. ' (length=175)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 3
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'inicial-busca-e-apreensao' (length=25)
+          public 'url_id' => int 715108392
+          public 'link' => string 'https://www.escavador.com/sobre/715108392/inicial-busca-e-apreensao' (length=67)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/75326184' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-08 14:00:49' (length=19)
+          public 'tem_patente' => int 0
+      37 => 
+        object(stdClass)[141]
+          public 'id' => int 60149628
+          public 'nome' => string 'Decisão Busca e Apreensão' (length=27)
+          public 'resumo' => string 'De acordo com os dados indexados: Decisão - Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=166)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'decisao-busca-e-apreensao' (length=25)
+          public 'url_id' => int 513016791
+          public 'link' => string 'https://www.escavador.com/sobre/513016791/decisao-busca-e-apreensao' (length=67)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/60149628' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-30 17:48:21' (length=19)
+          public 'tem_patente' => int 0
+      38 => 
+        object(stdClass)[142]
+          public 'id' => int 62810987
+          public 'nome' => string 'Liminar Busca e Apreensão' (length=26)
+          public 'resumo' => string 'De acordo com os dados indexados: Liminar Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25065836/banco-panamericano-s-a' title='Banco Panamericano S/A'>Banco Panamericano S/A</a> foi a parte que mais apareceu, com 1 processo.' (length=375)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'liminar-busca-e-apreensao' (length=25)
+          public 'url_id' => int 550028638
+          public 'link' => string 'https://www.escavador.com/sobre/550028638/liminar-busca-e-apreensao' (length=67)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/62810987' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-04-25 23:57:19' (length=19)
+          public 'tem_patente' => int 0
+      39 => 
+        object(stdClass)[144]
+          public 'id' => int 117418219
+          public 'nome' => string 'Busca e Apreensão Inadimplemento' (length=33)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão - Inadimplemento possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Mato Grosso do Sul.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/1033035467/julizar' title='Julizar'>Julizar</a> foi a parte que mais apareceu, com 1 processo.' (length=354)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-inadimplemento' (length=32)
+          public 'url_id' => int 1095579764
+          public 'link' => string 'https://www.escavador.com/sobre/1095579764/busca-e-apreensao-inadimplemento' (length=75)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/117418219' (length=50)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-10 16:34:43' (length=19)
+          public 'tem_patente' => int 0
+      40 => 
+        object(stdClass)[146]
+          public 'id' => int 52904375
+          public 'nome' => string 'Busca e Apreensão Procedente' (length=29)
+          public 'resumo' => string 'De acordo com os dados indexados: 2. Busca e Apreensão Procedente possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Rio Grande do Sul. ' (length=176)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string '2-busca-e-apreensao-procedente' (length=30)
+          public 'url_id' => int 424232555
+          public 'link' => string 'https://www.escavador.com/sobre/424232555/2-busca-e-apreensao-procedente' (length=72)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/52904375' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-20 20:37:04' (length=19)
+          public 'tem_patente' => int 0
+      41 => 
+        object(stdClass)[147]
+          public 'id' => int 122594287
+          public 'nome' => string 'Finalidade Busca e Apreensao' (length=28)
+          public 'resumo' => string 'De acordo com os dados indexados: Finalidade - Busca e Apreensao possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Goiás.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27082348/banco-volkswagen-s-a' title='Banco Volkswagen S/A'>Banco Volkswagen S/A</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/12853228/pedro-paulo-de-oliveira' tit'... (length=594)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 5
+          public 'tipos_juridico' => 
+            array (size=3)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'finalidade-busca-e-apreensao' (length=28)
+          public 'url_id' => int 1406864464
+          public 'link' => string 'https://www.escavador.com/sobre/1406864464/finalidade-busca-e-apreensao' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/122594287' (length=50)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-07-27 15:19:55' (length=19)
+          public 'tem_patente' => int 0
+      42 => 
+        object(stdClass)[151]
+          public 'id' => int 71508688
+          public 'nome' => string 'Busca e Apreensão Expedido' (length=27)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Expedido possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Rio Grande do Sul. ' (length=171)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-expedido' (length=26)
+          public 'url_id' => int 656624084
+          public 'link' => string 'https://www.escavador.com/sobre/656624084/busca-e-apreensao-expedido' (length=68)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/71508688' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-06 23:59:19' (length=19)
+          public 'tem_patente' => int 0
+      43 => 
+        object(stdClass)[152]
+          public 'id' => int 59162147
+          public 'nome' => string 'De Busca e Apreensão Criminal' (length=30)
+          public 'resumo' => string 'De acordo com os dados indexados: De Busca e Apreensão Criminal possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado da Bahia. ' (length=172)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 5
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'de-busca-e-apreensao-criminal' (length=29)
+          public 'url_id' => int 497852599
+          public 'link' => string 'https://www.escavador.com/sobre/497852599/de-busca-e-apreensao-criminal' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/59162147' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-29 20:23:52' (length=19)
+          public 'tem_patente' => int 0
+      44 => 
+        object(stdClass)[153]
+          public 'id' => int 33572327
+          public 'nome' => string 'Patricia Perdigao Santana Busca e Apreensão Em Alienação Fiduciária' (length=71)
+          public 'resumo' => string 'De acordo com os dados indexados: Patricia Perdigao Santana Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 194 processos indexados, até então, pelo Escavador. Com 191 processos no Estado de Minas Gerais, além de 2 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29118862/estado-de-minas-gerais' title='Estado de Minas Gerais'>Estado de Minas Gerais</a> foi a parte que mais apareceu, totalizando 51 ou mais processos, seguida por <a c'... (length=695)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 194
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'patricia-perdigao-santana-busca-e-apreensao-em-alienacao-fiduciaria' (length=67)
+          public 'url_id' => int 220349702
+          public 'link' => string 'https://www.escavador.com/sobre/220349702/patricia-perdigao-santana-busca-e-apreensao-em-alienacao-fiduciaria' (length=109)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/33572327' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-05 14:46:11' (length=19)
+          public 'tem_patente' => int 0
+      45 => 
+        object(stdClass)[155]
+          public 'id' => int 8432448
+          public 'nome' => string 'Busca e Apreensão de Veículo' (length=30)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão de Veiculo possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27367724/banco-bv-financeira-s-a' title='Banco Bv Financeira S/A'>Banco Bv Financeira S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27071636/bradesco-administradora-de-con'... (length=640)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 5
+          public 'tipos_juridico' => 
+            array (size=2)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-de-veiculo' (length=28)
+          public 'url_id' => int 284845195
+          public 'link' => string 'https://www.escavador.com/sobre/284845195/busca-e-apreensao-de-veiculo' (length=70)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/8432448' (length=53)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-04-25 14:52:29' (length=19)
+          public 'tem_patente' => int 0
+      46 => 
+        object(stdClass)[158]
+          public 'id' => int 83098308
+          public 'nome' => string 'Busca e Apreensão (10677) Liminar' (length=34)
+          public 'resumo' => string 'De acordo com os dados indexados: 9582) Busca e Apreensão (10677) Liminar possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Distrito Federal.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24994896/itau-unibanco-s-a' title='Itau Unibanco S/A'>Itau Unibanco S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/26113893/banco-itaucard-s-a' title='Banco Ita'... (length=562)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 2
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string '9582-busca-e-apreensao-10677-liminar' (length=36)
+          public 'url_id' => int 825061456
+          public 'link' => string 'https://www.escavador.com/sobre/825061456/9582-busca-e-apreensao-10677-liminar' (length=78)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/83098308' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-08 15:21:21' (length=19)
+          public 'tem_patente' => int 0
+      47 => 
+        object(stdClass)[160]
+          public 'id' => int 47025443
+          public 'nome' => string 'Pedido de Busca e Apreensão' (length=28)
+          public 'resumo' => string 'De acordo com os dados indexados: Pedido de Busca e Apreensão possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Brasil.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/15504618/rafael-medeiros-da-cunha' title='Rafael Medeiros da Cunha'>Rafael Medeiros da Cunha</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/17111880/nerber-nei-falcao-de-oliveira' title='... (length=596)
+          public 'sigla' => string '' (length=0)
+          public 'pais' => string '' (length=0)
+          public 'quantidade_pessoas' => null
+          public 'quantidade_processos' => int 2
+          public 'tipos_juridico' => 
+            array (size=3)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'pedido-de-busca-e-apreensao' (length=27)
+          public 'url_id' => int 366022279
+          public 'link' => string 'https://www.escavador.com/sobre/366022279/pedido-de-busca-e-apreensao' (length=69)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/47025443' (length=49)
+          public 'tipo_resultado' => string 'Instituicao' (length=11)
+          public 'updated_at' => string '2023-07-01 19:49:06' (length=19)
+          public 'tem_patente' => int 0
+      48 => 
+        object(stdClass)[164]
+          public 'id' => int 32959183
+          public 'nome' => string 'Marcelo Caetano Pereira Gomes Busca e Apreensão Em Alienação Fiduciária' (length=75)
+          public 'resumo' => string 'De acordo com os dados indexados: Marcelo Caetano Pereira Gomes Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 66 processos indexados, até então, pelo Escavador. Com 45 processos no Estado de São Paulo, além de 19 processos no Estado de Minas Gerais. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24901850/mrv-engenharia-e-participacoes-s-a' title='Mrv Engenharia e Participações S/A'>Mrv Engenharia e Participações S/A</a> foi a parte que mais apa'... (length=741)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 66
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'marcelo-caetano-pereira-gomes-busca-e-apreensao-em-alienacao-fiduciaria' (length=71)
+          public 'url_id' => int 214707332
+          public 'link' => string 'https://www.escavador.com/sobre/214707332/marcelo-caetano-pereira-gomes-busca-e-apreensao-em-alienacao-fiduciaria' (length=113)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/32959183' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-06 12:46:25' (length=19)
+          public 'tem_patente' => int 0
+      49 => 
+        object(stdClass)[166]
+          public 'id' => int 55062859
+          public 'nome' => string 'Expeça Se Mandado de Busca e Apreensão' (length=40)
+          public 'resumo' => string 'De acordo com os dados indexados: Expeça - Se Mandado de Busca e Apreensão e Neste Mesmo Ato possui 4 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio Grande do Sul. ' (length=214)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 4
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'expeca-se-mandado-de-busca-e-apreensao-e-neste-mesmo-ato' (length=56)
+          public 'url_id' => int 449026043
+          public 'link' => string 'https://www.escavador.com/sobre/449026043/expeca-se-mandado-de-busca-e-apreensao-e-neste-mesmo-ato' (length=98)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/55062859' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-07-21 05:19:38' (length=19)
+          public 'tem_patente' => int 0
+      50 => 
+        object(stdClass)[167]
+          public 'id' => int 112840775
+          public 'nome' => string 'Busca e Apreensão e Depósito' (length=30)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão e Depósito possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Amapá.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24994896/itau-unibanco-s-a' title='Itau Unibanco S/A'>Itau Unibanco S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/852099979/francisley-soares-cambraia' title='Francisley Soares Ca'... (length=567)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-e-deposito' (length=28)
+          public 'url_id' => int 1014919348
+          public 'link' => string 'https://www.escavador.com/sobre/1014919348/busca-e-apreensao-e-deposito' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/112840775' (length=50)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-10 01:58:43' (length=19)
+          public 'tem_patente' => int 0
+      51 => 
+        object(stdClass)[169]
+          public 'id' => int 52746771
+          public 'nome' => string 'Cautelar de Busca e Apreensão' (length=30)
+          public 'resumo' => string 'De acordo com os dados indexados: Cautelar de Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Santa Catarina.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/28452217/comercio-de-combustiveis-e-derivados-de-petroleo-perizzolo-ltda' title='Comercio de Combustiveis e Derivados de Petroleo Perizzolo Ltda'>Comercio de Combustiveis e Derivados de Petroleo Perizzolo Ltda</a> foi a parte que mais apareceu, totalizando 1 pr'... (length=722)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'cautelar-de-busca-e-apreensao' (length=29)
+          public 'url_id' => int 422033712
+          public 'link' => string 'https://www.escavador.com/sobre/422033712/cautelar-de-busca-e-apreensao' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/52746771' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-20 16:29:51' (length=19)
+          public 'tem_patente' => int 0
+      52 => 
+        object(stdClass)[171]
+          public 'id' => int 42609520
+          public 'nome' => string 'Efeito Suspensivo Busca e Apreensão' (length=36)
+          public 'resumo' => string 'De acordo com os dados indexados: Efeito Suspensivo - Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/28468301/companhia-de-credito' title='Companhia de Credito'>Companhia de Credito</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/29635524/financiamento' title='Financiamento'>Fin'... (length=543)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'efeito-suspensivo-busca-e-apreensao' (length=35)
+          public 'url_id' => int 316042708
+          public 'link' => string 'https://www.escavador.com/sobre/316042708/efeito-suspensivo-busca-e-apreensao' (length=77)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/42609520' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-05 03:33:15' (length=19)
+          public 'tem_patente' => int 0
+      53 => 
+        object(stdClass)[173]
+          public 'id' => int 85025866
+          public 'nome' => string 'Busca e Apreensão Alienação Fiduciária' (length=42)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Alienação Fiduciária possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo. ' (length=189)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 2
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-alienacao-fiduciaria' (length=38)
+          public 'url_id' => int 847415478
+          public 'link' => string 'https://www.escavador.com/sobre/847415478/busca-e-apreensao-alienacao-fiduciaria' (length=80)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/85025866' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-08 00:26:50' (length=19)
+          public 'tem_patente' => int 0
+      54 => 
+        object(stdClass)[174]
+          public 'id' => int 84676255
+          public 'nome' => string 'Resolução (10582) Busca e Apreensão' (length=38)
+          public 'resumo' => string 'De acordo com os dados indexados: Resolução (10582) Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Distrito Federal.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/10056509/hozanan-linhares-gomes' title='Hozanan Linhares Gomes'>Hozanan Linhares Gomes</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/373066688/esdras-rodrigues' title='Esdras '... (length=560)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'resolucao-10582-busca-e-apreensao' (length=33)
+          public 'url_id' => int 842070228
+          public 'link' => string 'https://www.escavador.com/sobre/842070228/resolucao-10582-busca-e-apreensao' (length=75)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/84676255' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-08 10:16:40' (length=19)
+          public 'tem_patente' => int 0
+      55 => 
+        object(stdClass)[176]
+          public 'id' => int 32163610
+          public 'nome' => string 'Maristela Avelino Busca e Apreensão' (length=36)
+          public 'resumo' => string 'De acordo com os dados indexados: Maristela Avelino Busca e Apreensão é Advogado(a) e possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/11945416/angela-dias-de-oliveira' title='Angela Dias de Oliveira'>Angela Dias de Oliveira</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/205630385/maria-al'... (length=623)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'maristela-avelino-busca-e-apreensao' (length=35)
+          public 'url_id' => int 205630386
+          public 'link' => string 'https://www.escavador.com/sobre/205630386/maristela-avelino-busca-e-apreensao' (length=77)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/32163610' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-04-18 06:21:46' (length=19)
+          public 'tem_patente' => int 0
+      56 => 
+        object(stdClass)[178]
+          public 'id' => int 58052880
+          public 'nome' => string 'Concessão Liminar Busca e Apreensão' (length=37)
+          public 'resumo' => string 'De acordo com os dados indexados: Concessão Liminar Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26705312/banco-bradesco-financiamentos-s-a' title='Banco Bradesco Financiamentos S/A'>Banco Bradesco Financiamentos S/A</a> foi a parte que mais apareceu, com 1 processo.' (length=419)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'concessao-liminar-busca-e-apreensao' (length=35)
+          public 'url_id' => int 488496492
+          public 'link' => string 'https://www.escavador.com/sobre/488496492/concessao-liminar-busca-e-apreensao' (length=77)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/58052880' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-29 08:52:28' (length=19)
+          public 'tem_patente' => int 0
+      57 => 
+        object(stdClass)[180]
+          public 'id' => int 124975167
+          public 'nome' => string 'Busca e Apreensão de Interditado' (length=33)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão de Interditado possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Tocantins.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/1621512930/ana-maria-goncalves-dos-santos-alves' title='Ana Maria Gonçalves dos Santos Alves'>Ana Maria Gonçalves dos Santos Alves</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobr'... (length=661)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-de-interditado' (length=32)
+          public 'url_id' => int 1621512929
+          public 'link' => string 'https://www.escavador.com/sobre/1621512929/busca-e-apreensao-de-interditado' (length=75)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/124975167' (length=50)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-13 02:33:48' (length=19)
+          public 'tem_patente' => int 0
+      58 => 
+        object(stdClass)[182]
+          public 'id' => int 17708727
+          public 'nome' => string 'Depósito de Busca e Apreensão' (length=31)
+          public 'resumo' => string 'De acordo com os dados indexados: Depósito de Busca e Apreensão possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/232582371/erica-martinez' title='Érica Martinez'>Érica Martinez</a> foi a parte que mais apareceu, com 1 processo.' (length=364)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'deposito-de-busca-e-apreensao' (length=29)
+          public 'url_id' => int 843292232
+          public 'link' => string 'https://www.escavador.com/sobre/843292232/deposito-de-busca-e-apreensao' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/17708727' (length=54)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-03-10 03:33:35' (length=19)
+          public 'tem_patente' => int 0
+      59 => 
+        object(stdClass)[184]
+          public 'id' => int 15275899
+          public 'nome' => string 'Busca e Apreensão do Veículo' (length=30)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão do Veículo possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=167)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-do-veiculo' (length=28)
+          public 'url_id' => int 688295099
+          public 'link' => string 'https://www.escavador.com/sobre/688295099/busca-e-apreensao-do-veiculo' (length=70)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/instituicoes/15275899' (length=54)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-03-11 11:19:21' (length=19)
+          public 'tem_patente' => int 0
+      60 => 
+        object(stdClass)[185]
+          public 'id' => int 76843928
+          public 'nome' => string 'Busca e Apreensão Despacho Cumpra' (length=34)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Despacho Cumpra possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado da Bahia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/284667549/durval-matta-pires-de-moura' title='Durval Matta Pires de Moura'>Durval Matta Pires de Moura</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/620191023/a-nomeado' title='Á '... (length=552)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-despacho-cumpra' (length=33)
+          public 'url_id' => int 729337155
+          public 'link' => string 'https://www.escavador.com/sobre/729337155/busca-e-apreensao-despacho-cumpra' (length=75)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/76843928' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-07 15:27:39' (length=19)
+          public 'tem_patente' => int 0
+      61 => 
+        object(stdClass)[187]
+          public 'id' => int 89312948
+          public 'nome' => string 'Busca e Apreensao C/Liminar' (length=27)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensao C/Liminar possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Pará.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25050381/banco-gmac-s-a' title='Banco Gmac S/A'>Banco Gmac S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/910141868/miguel-paulo-peniche-da-paixao' title='Miguel Paulo Peniche da Paix�'... (length=568)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-c-liminar' (length=27)
+          public 'url_id' => int 910141867
+          public 'link' => string 'https://www.escavador.com/sobre/910141867/busca-e-apreensao-c-liminar' (length=69)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/89312948' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-08 22:00:15' (length=19)
+          public 'tem_patente' => int 0
+      62 => 
+        object(stdClass)[189]
+          public 'id' => int 80769125
+          public 'nome' => string 'Busca e Apreensão Pelo Decreto' (length=31)
+          public 'resumo' => string 'De acordo com os dados indexados: Busca e Apreensão Pelo Decreto possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Pará.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27082348/banco-volkswagen-s-a' title='Banco Volkswagen S/A'>Banco Volkswagen S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/792377912/ana-maria-oliveira-de-sousa' title='Ana Maria '... (length=579)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'busca-e-apreensao-pelo-decreto' (length=30)
+          public 'url_id' => int 792377911
+          public 'link' => string 'https://www.escavador.com/sobre/792377911/busca-e-apreensao-pelo-decreto' (length=72)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/80769125' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-08 06:53:20' (length=19)
+          public 'tem_patente' => int 0
+      63 => 
+        object(stdClass)[191]
+          public 'id' => int 36756839
+          public 'nome' => string 'Walter Arantes Guimaraes Filho 2a Vara Cível da Comarca de Ituiutaba Busca e Apreensão Em Alienação Fiduciária' (length=115)
+          public 'resumo' => string 'De acordo com os dados indexados: Walter Arantes Guimaraes Filho 2A Vara Cível da Comarca de Ituiutaba Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 233 processos indexados, até então, pelo Escavador. Com 153 processos no Estado de São Paulo, além de 73 processos no Estado de Minas Gerais. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24538998/caixa-economica-federal' title='Caixa Economica Federal'>Caixa Economica Federal</a> foi a parte que mai'... (length=746)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 233
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'walter-arantes-guimaraes-filho-2a-vara-civel-comarca-ituiutaba-busca-apreensao' (length=78)
+          public 'url_id' => int 268112057
+          public 'link' => string 'https://www.escavador.com/sobre/268112057/walter-arantes-guimaraes-filho-2a-vara-civel-comarca-ituiutaba-busca-apreensao' (length=120)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/36756839' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-02 23:49:26' (length=19)
+          public 'tem_patente' => int 0
+      64 => 
+        object(stdClass)[193]
+          public 'id' => int 35313604
+          public 'nome' => string 'Felix Renan Ferreira Teles Busca e Apreensão Em Alienação Fiduciária' (length=72)
+          public 'resumo' => string 'De acordo com os dados indexados: Felix Renan Ferreira Teles Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 34 processos indexados, até então, pelo Escavador. Com 14 processos no Estado de Goiás, além de 13 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24622822/ministerio-publico-do-estado-de-goias' title='Ministério Público do Estado de Goiás'>Ministério Público do Estado de Goiás</a> foi a parte que mais apareceu, total'... (length=736)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 34
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'felix-renan-ferreira-teles-busca-e-apreensao-em-alienacao-fiduciaria' (length=68)
+          public 'url_id' => int 247372006
+          public 'link' => string 'https://www.escavador.com/sobre/247372006/felix-renan-ferreira-teles-busca-e-apreensao-em-alienacao-fiduciaria' (length=110)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/35313604' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-07-27 14:19:01' (length=19)
+          public 'tem_patente' => int 0
+      65 => 
+        object(stdClass)[195]
+          public 'id' => int 33123369
+          public 'nome' => string 'Jose Carneiro Neto 4a Vara Cível da Comarca de Uberaba Busca e Apreensão Em Alienação Fiduciária' (length=101)
+          public 'resumo' => string 'De acordo com os dados indexados: Jose Carneiro Neto 4A Vara Cível da Comarca de Uberaba Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 134 processos indexados, até então, pelo Escavador. Com 88 processos no Estado de Minas Gerais, além de 20 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24656057/sociedade-educadora-osvaldo-cruz' title='Sociedade Educadora Osvaldo Cruz'>Sociedade Educadora Osvaldo Cruz</a> foi a parte que mais '... (length=757)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 134
+          public 'tipos_juridico' => 
+            array (size=4)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'jose-carneiro-neto-4a-vara-civel-comarca-uberaba-busca-apreensao-em-alienacao' (length=77)
+          public 'url_id' => int 216662799
+          public 'link' => string 'https://www.escavador.com/sobre/216662799/jose-carneiro-neto-4a-vara-civel-comarca-uberaba-busca-apreensao-em-alienacao' (length=119)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/33123369' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-04 18:22:25' (length=19)
+          public 'tem_patente' => int 0
+      66 => 
+        object(stdClass)[200]
+          public 'id' => int 65540437
+          public 'nome' => string 'Sob Pena de Busca e Apreensão. 072/1' (length=37)
+          public 'resumo' => string 'De acordo com os dados indexados: Sob Pena de Busca e Apreensão. 072/1 possui 18 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio Grande do Sul. ' (length=192)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 18
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'sob-pena-de-busca-e-apreensao-072-1' (length=35)
+          public 'url_id' => int 576688876
+          public 'link' => string 'https://www.escavador.com/sobre/576688876/sob-pena-de-busca-e-apreensao-072-1' (length=77)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/65540437' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-17 08:15:46' (length=19)
+          public 'tem_patente' => int 0
+      67 => 
+        object(stdClass)[201]
+          public 'id' => int 56071514
+          public 'nome' => string 'Expedido Mandado de Busca e Apreensão. Viamão' (length=47)
+          public 'resumo' => string 'De acordo com os dados indexados: Expedido Mandado de Busca e Apreensão. Viamão possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio Grande do Sul. ' (length=201)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 5
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'expedido-mandado-de-busca-e-apreensao-viamao' (length=44)
+          public 'url_id' => int 461815824
+          public 'link' => string 'https://www.escavador.com/sobre/461815824/expedido-mandado-de-busca-e-apreensao-viamao' (length=86)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/56071514' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-05-27 03:14:25' (length=19)
+          public 'tem_patente' => int 0
+      68 => 
+        object(stdClass)[202]
+          public 'id' => int 36973648
+          public 'nome' => string 'Judite Asevedo Silva Busca e Apreensão Em Alienação Fiduciária' (length=66)
+          public 'resumo' => string 'De acordo com os dados indexados: Judite Asevedo Silva Busca e Apreensão Em Alienação Fiduciária é Advogado(a) e possui 9 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/10020131/ana-paula-dos-santos' title='Ana Paula dos Santos'>Ana Paula dos Santos</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://ww'... (length=650)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 9
+          public 'tipos_juridico' => 
+            array (size=1)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'judite-asevedo-silva-busca-e-apreensao-em-alienacao-fiduciaria' (length=62)
+          public 'url_id' => int 271442096
+          public 'link' => string 'https://www.escavador.com/sobre/271442096/judite-asevedo-silva-busca-e-apreensao-em-alienacao-fiduciaria' (length=104)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/36973648' (length=49)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => 
+            array (size=1)
+              ...
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-12 20:55:29' (length=19)
+          public 'tem_patente' => int 0
+      69 => 
+        object(stdClass)[204]
+          public 'id' => int 113240220
+          public 'nome' => string 'Expedi Mandado de Busca e Apreensão' (length=36)
+          public 'resumo' => string 'De acordo com os dados indexados: Expedi Mandado de Busca e Apreensão e possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ' (length=175)
+          public 'atuacao_formacao' => null
+          public 'areas_atuacao' => null
+          public 'nome_em_citacoes' => null
+          public 'quantidade_processos' => int 1
+          public 'tipos_juridico' => 
+            array (size=0)
+              ...
+          public 'tem_processo' => int 1
+          public 'slug' => string 'expedi-mandado-de-busca-e-apreensao-e' (length=37)
+          public 'url_id' => int 1023704621
+          public 'link' => string 'https://www.escavador.com/sobre/1023704621/expedi-mandado-de-busca-e-apreensao-e' (length=80)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/113240220' (length=50)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => string '2023-06-10 05:40:29' (length=19)
+          public 'tem_patente' => int 0

@@ -1,0 +1,50 @@
+object(stdClass)[58]
+  public 'id' => int 49920975
+  public 'nome' => string '9104-Busca e Apreensao' (length=22)
+  public 'lattes_id' => null
+  public 'resumo' => string 'De acordo com os dados indexados: 9104-Busca e Apreensao possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Goiás.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/10046683/ildebrando-loures-de-mendonca' title='Ildebrando Loures de Mendonca'>Ildebrando Loures de Mendonca</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/351455472/1a-vara-federal' title='1A '... (length=562)
+  public 'ultimos_processos' => 
+    array (size=1)
+      0 => 
+        object(stdClass)[56]
+          public 'id' => int 63736863
+          public 'numero_antigo' => null
+          public 'numero_novo' => string '0003419-77.2016.4.01.3500' (length=25)
+          public 'is_cnj' => int 1
+          public 'enviado_trimon_em' => string '2022-03-04 18:20:06' (length=19)
+          public 'created_at' => null
+          public 'updated_at' => null
+          public 'origem_tribunal_id' => int 5
+          public 'filtrado_em' => null
+          public 'enviado_nursery_em' => null
+          public 'tipo_envolvido' => string 'CLASSE' (length=6)
+          public 'link' => string 'https://www.escavador.com/processos/63736863/processo-0003419-7720164013500-do-trf1-secao-judiciaria-de-goias' (length=109)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/processos/63736863' (length=51)
+          public 'data_movimentacoes' => string '19/02/2016 a 06/04/2016' (length=23)
+          public 'data_primeira_movimentacao' => string '19/02/2016' (length=10)
+          public 'envolvidos_ultima_movimentacao' => 
+            array (size=7)
+              ...
+          public 'url' => 
+            object(stdClass)[59]
+              ...
+  public 'quantidade_processos' => int 1
+  public 'estados_com_mais_processos' => 
+    array (size=1)
+      0 => 
+        object(stdClass)[60]
+          public 'estado' => string 'Goiás' (length=6)
+          public 'qtd' => int 1
+  public 'oabs' => 
+    array (size=0)
+      empty
+  public 'curriculo_lattes' => null
+  public 'comissoes_julgadoras' => 
+    array (size=0)
+      empty
+  public 'orientadores' => 
+    array (size=0)
+      empty
+  public 'link' => string 'https://www.escavador.com/sobre/388367385/9104-busca-e-apreensao' (length=64)
+  public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/49920975' (length=49)
+  public 'created_at' => string '2017-08-29 23:14:09' (length=19)

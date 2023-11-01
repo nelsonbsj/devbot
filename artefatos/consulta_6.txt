@@ -1,0 +1,160 @@
+C:\wamp64\www\devbot\application\controllers\Consulta.php:102:
+object(stdClass)[57]
+  public 'paginator' => 
+    object(stdClass)[59]
+      public 'total' => int 10
+      public 'total_pages' => int 1
+      public 'current_page' => int 1
+      public 'per_page' => int 15
+  public 'links' => 
+    object(stdClass)[43]
+      public 'prev' => null
+      public 'next' => null
+  public 'items' => 
+    array (size=9)
+      0 => 
+        object(stdClass)[53]
+          public 'id' => int 3648459
+          public 'nome' => string 'Nelson Batista Sales Junior' (length=27)
+          public 'resumo' => string 'Possui graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Mario Pontes Jucá - UMJ (2012). 
+Conhecimento em SGBD , já tendo desenvolvidos sistemas web baseados em php,html, css , mysql' (length=215)
+          public 'atuacao_formacao' => 
+            array (size=2)
+              ...
+          public 'areas_atuacao' => string 'Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação. 
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados. 
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Linguagens de Programação. 
+Grande á'... (length=665)
+          public 'nome_em_citacoes' => string 'SALES JUNIOR, N. B.' (length=19)
+          public 'quantidade_processos' => null
+          public 'tipos_juridico' => null
+          public 'tem_processo' => int 0
+          public 'slug' => string 'nelson-batista-sales-junior' (length=27)
+          public 'url_id' => int 3927594
+          public 'link' => string 'https://www.escavador.com/sobre/3927594/nelson-batista-sales-junior' (length=67)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/pessoas/3648459' (length=48)
+          public 'tipo_resultado' => string 'Pessoa' (length=6)
+          public 'oab_numero' => null
+          public 'tem_curriculo' => int 1
+          public 'updated_at' => null
+          public 'tem_patente' => int 0
+      1 => 
+        object(stdClass)[44]
+          public 'id' => int 239866680
+          public 'diario_id' => int 4227796
+          public 'numero_pagina' => int 15
+          public 'diario_sigla' => string 'DOMMA-AL' (length=8)
+          public 'diario_nome' => string 'Diário Oficial do Município de Maceió' (length=40)
+          public 'diario_data' => string '2014-06-23' (length=10)
+          public 'caderno' => string 'Padrão' (length=7)
+          public 'caderno_url' => string 'P' (length=1)
+          public 'texto' => string 'NALIANE DE LIMA NATANIEL TENORIO DA SILVA NEILSON SILVA DOS SANTOS NELSON BATISTA SALES JUNIOR NELSON MIRANDA MATTOS FILHO NEUSVALDO CORREIRA DE FRANCA NILZA SILVA ODILON NIVALDO BATISTA SANTOS OSWALDO GILSON VICTORINO SILVA OXIMA S/S ...' (length=238)
+          public 'diario_edicao' => string '2014-06-23' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/4227796/DOMMA-AL/P/2014-06-23?page=15' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/4227796?page=15' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      2 => 
+        object(stdClass)[58]
+          public 'id' => int 239597762
+          public 'diario_id' => int 4224160
+          public 'numero_pagina' => int 21
+          public 'diario_sigla' => string 'DOMMA-AL' (length=8)
+          public 'diario_nome' => string 'Diário Oficial do Município de Maceió' (length=40)
+          public 'diario_data' => string '2015-11-03' (length=10)
+          public 'caderno' => string 'Padrão' (length=7)
+          public 'caderno_url' => string 'P' (length=1)
+          public 'texto' => string '...VASCONCELOS DE ARAUJO MUNICIPIO DE CAMPO ALEGRE MYLENA PORTO CAVALCANTI NANCY BELO DE LIMA COELHO NEGTTON SILVA ARAUJO NEIZA MARIA LIMA DE MIRANDA NELSON BATISTA SALES JUNIOR NELSON BEZERRA S JUNIOR NIEDJA DOS SANTOS SILVA NOEMI CAVALCANTE SANTOS OLIVAN SEVERINA DOS SANTOS SOUZA ORIVAL JOSE DE FRANCA PATRICIA SANTA...' (length=322)
+          public 'diario_edicao' => string '2015-11-03' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/4224160/DOMMA-AL/P/2015-11-03?page=21' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/4224160?page=21' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      3 => 
+        object(stdClass)[51]
+          public 'id' => int 136633679
+          public 'diario_id' => int 3236833
+          public 'numero_pagina' => int 14
+          public 'diario_sigla' => string 'DOEAL' (length=5)
+          public 'diario_nome' => string 'Diário Oficial do Estado de Alagoas' (length=36)
+          public 'diario_data' => string '2020-05-22' (length=10)
+          public 'caderno' => string 'Poder Executivo' (length=15)
+          public 'caderno_url' => string 'poder-executivo' (length=15)
+          public 'texto' => string '...NA VARINHA - INFANTIL; CARMEN LUCIA ALVES FREIRE; GERART PRODUÇÃO DE EVENTOS; FÁBIO AROLDO DE LIMA FARIAS; LEANDRO DA SILVA OLIVEIRA; JESÚS ROJO; NELSON BATISTA SALES JUNIOR; MARCOS SIÃO AGUSTINHO LINS DE SOUZA; SUSANY KOLLYNS OLIVEIRA DANTAS; JOSY ALLINE JULIÃO AMORIM; FRANCISCO PIERRE DOS SANTOS SILVA; THASSYANA ALMEIDA...' (length=335)
+          public 'diario_edicao' => string '2020-05-22' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/3236833/DOEAL/poder-executivo/2020-05-22?page=14' (length=82)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/3236833?page=14' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      4 => 
+        object(stdClass)[41]
+          public 'id' => int 239884734
+          public 'diario_id' => int 4228252
+          public 'numero_pagina' => int 53
+          public 'diario_sigla' => string 'DOMMA-AL' (length=8)
+          public 'diario_nome' => string 'Diário Oficial do Município de Maceió' (length=40)
+          public 'diario_data' => string '2014-02-27' (length=10)
+          public 'caderno' => string 'Padrão' (length=7)
+          public 'caderno_url' => string 'P' (length=1)
+          public 'texto' => string '...DE VEICULOS LTDA ME MOACIR LOPES DE ANDRADE NADJA SILVANA SANTOS BRANDAO NALIANE DE LIMA NATANIEL TENORIO DA SILVA NEILSON SILVA DOS SANTOS NELSON BATISTA SALES JUNIOR NELSON MIRANDA MATTOS FILHO NILZA SILVA ODILON OXIMA S/S LTDA 11/02/2014 20 11/02/2014 10 12/02/2014 20 13/02/2014 20 07/02/2014 16 13/02/2014 22 06/02/2014 09 15/02/2014 15 14/02/2014 21 17/02/2014 16 15/02/2014 16 07/02/2014 21...' (length=403)
+          public 'diario_edicao' => string '2014-02-27' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/4228252/DOMMA-AL/P/2014-02-27?page=53' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/4228252?page=53' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      5 => 
+        object(stdClass)[60]
+          public 'id' => int 239581090
+          public 'diario_id' => int 4223740
+          public 'numero_pagina' => int 46
+          public 'diario_sigla' => string 'DOMMA-AL' (length=8)
+          public 'diario_nome' => string 'Diário Oficial do Município de Maceió' (length=40)
+          public 'diario_data' => string '2016-02-19' (length=10)
+          public 'caderno' => string 'Padrão' (length=7)
+          public 'caderno_url' => string 'P' (length=1)
+          public 'texto' => string '...TEIXEIRA MENDES NADJALMA CALHEIROS BITENCURT NATANIEL MARTINS DA SILVA NAYARA MARCOLINO DE MELO NEILZE BELTRAO TAVARES NELLY YASMENY COSTA DE FRANCA NELSON BATISTA SALES JUNIOR NELSON BEZERRA LIMA NELSON LEITE DO NASCIMENTO NEUZA HUNGARO NILCE ALBUQUERQUE DIAS NILCE DE MELO BRAGA NOEMIA MARIA DA CONCEICAO NORDESTE IMPLEMENTOS...' (length=333)
+          public 'diario_edicao' => string '2016-02-19' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/4223740/DOMMA-AL/P/2016-02-19?page=46' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/4223740?page=46' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      6 => 
+        object(stdClass)[61]
+          public 'id' => int 239579360
+          public 'diario_id' => int 4223696
+          public 'numero_pagina' => int 14
+          public 'diario_sigla' => string 'DOMMA-AL' (length=8)
+          public 'diario_nome' => string 'Diário Oficial do Município de Maceió' (length=40)
+          public 'diario_data' => string '2016-03-02' (length=10)
+          public 'caderno' => string 'Padrão' (length=7)
+          public 'caderno_url' => string 'P' (length=1)
+          public 'texto' => string '...ALVES JUNIOR MP PECAS E SERVICOS LTDA MUNICIPIO DE CAMPO ALEGRE NADJA MIRANDA DE OLIVEIRA NEIDE DE PAIVA GONCALVES NEILMA MARIA SARMENTO SOARES NELSON BATISTA SALES JUNIOR NELSON BEZERRA DA SILVA JUNIOR NEUDSON CUNHA DE ALMEIDA NEUSVALDO LIMA DA SILVA NICHOLAS DEODATO DE MELO SILVA NIEDJA DOS SANTOS SILVA OBERDAN...' (length=320)
+          public 'diario_edicao' => string '2016-03-02' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/4223696/DOMMA-AL/P/2016-03-02?page=14' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/4223696?page=14' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      7 => 
+        object(stdClass)[62]
+          public 'id' => int 239603932
+          public 'diario_id' => int 4224329
+          public 'numero_pagina' => int 23
+          public 'diario_sigla' => string 'DOMMA-AL' (length=8)
+          public 'diario_nome' => string 'Diário Oficial do Município de Maceió' (length=40)
+          public 'diario_data' => string '2015-09-17' (length=10)
+          public 'caderno' => string 'Padrão' (length=7)
+          public 'caderno_url' => string 'P' (length=1)
+          public 'texto' => string '... MAURICIO DE MOURA SANTOS 02/09/2015 09:21 G118405360 MICHELLE CAVALCANTI DA GUIA 12/08/2015 10:32 G000494408 MIFARMA COM E REPRESENTACAO LTDA 14/08/2015 10:47 G000495651 NELSON BATISTA SALES JUNIOR 14/08/2015 10:30 D300361650 NEUDSON CUNHA DE ALMEIDA 04/09/2015 07:40 G109300160 PAULO ROBERTO F DE ALBUQUERQUE 12/08/2015 16:39 G119500541 PAULO VICENTE DE MELO MALTA 13/08/2015 10:18...' (length=389)
+          public 'diario_edicao' => string '2015-09-17' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/4224329/DOMMA-AL/P/2015-09-17?page=23' (length=71)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/4224329?page=23' (length=56)
+          public 'tipo_resultado' => string 'Diario' (length=6)
+      8 => 
+        object(stdClass)[63]
+          public 'id' => int 137403715
+          public 'diario_id' => int 3237890
+          public 'numero_pagina' => int 5
+          public 'diario_sigla' => string 'DOEAL' (length=5)
+          public 'diario_nome' => string 'Diário Oficial do Estado de Alagoas' (length=36)
+          public 'diario_data' => string '2020-05-26' (length=10)
+          public 'caderno' => string 'Poder Executivo' (length=15)
+          public 'caderno_url' => string 'poder-executivo' (length=15)
+          public 'texto' => string '... VARINHA - INFANTIL CARMEN LUCIA ALVES FREIRE GERART PRODUÇÃO DE EVENTOS FÁBIO AROLDO DE LIMA FARIAS LEANDRO DA SILVA OLIVEIRA JESÚS ROJO NELSON BATISTA SALES JUNIOR MARCOS SIÃO AGUSTINHO LINS DE SOUZA SUSANY KOLLYNS OLIVEIRA DANTAS JOSY ALLINE JULIÃO AMORIM FRANCISCO PIERRE DOS SANTOS SILVA THASSYANA ALMEIDA...' (length=322)
+          public 'diario_edicao' => string '2020-05-26' (length=10)
+          public 'link' => string 'https://www.escavador.com/diarios/3237890/DOEAL/poder-executivo/2020-05-26?page=5' (length=81)
+          public 'link_api' => string 'https://api.escavador.com/api/v1/diarios/3237890?page=5' (length=55)
+          public 'tipo_resultado' => string 'Diario' (length=6)

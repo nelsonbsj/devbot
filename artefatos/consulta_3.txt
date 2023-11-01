@@ -1,0 +1,128 @@
+{
+  "id": 1,
+  "created_at": {
+    "date": "2023-04-19 14:10:10",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "enviar_callback": "NAO",
+  "link_api": "https://api.escavador.com/api/v1/async/resultados/1",
+  "numero_processo": "0000000",
+  "resposta": {
+    "numero_unico": "0000000-00.0000.0.00.0000",
+    "origem": "TJBA",
+    "instancias": [
+      {
+        "url": "https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam",
+        "sistema": "PJE",
+        "instancia": "PRIMEIRO_GRAU",
+        "extra_instancia": "",
+        "segredo": false,
+        "numero": null,
+        "assunto": "DIREITO CIVIL (899) - Obrigações (7681) - Preferências e Privilégios Creditórios",
+        "classe": "HABILITAÇÃO (38)",
+        "area": null,
+        "data_distribuicao": "19/01/2022",
+        "orgao_julgador": "1ª V EMPRESARIAL DE SALVADOR",
+        "moeda_valor_causa": null,
+        "valor_causa": null,
+        "arquivado": true,
+        "data_arquivamento": "01/09/2022",
+        "fisico": null,
+        "last_update_time": "19/04/2023 14:12",
+        "situacoes": [],
+        "dados": [
+          {
+            "tipo": "Processo referência",
+            "valor": "0000000-00.0000.0.00.0000"
+          }
+        ],
+        "partes": [
+          {
+            "id": 1,
+            "tipo": "REQUERENTE",
+            "nome": "MARIA",
+            "principal": true,
+            "polo": "ATIVO",
+            "documento": {
+              "tipo": "CPF",
+              "numero": "000.000.000-00"
+            }
+          },
+          {
+            "id": 2,
+            "tipo": "ADVOGADO",
+            "nome": "JOAO",
+            "principal": true,
+            "polo": "ATIVO",
+            "documento": {
+              "tipo": "CPF",
+              "numero": "000.000.000-00"
+            },
+            "advogado_de": 1,
+            "oabs": [
+              {
+                "numero": "12345",
+                "uf": "BA"
+              }
+            ]
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 1,
+            "data": "03/12/2022",
+            "conteudo": "Certidão de publicação no DJe (Certidão de publicação no DJe)"
+          },
+          {
+            "id": 12,
+            "data": "24/10/2022",
+            "conteudo": "Decorrido prazo de EMPRESARIAL LTDA - EPP em 27/09/2022 23:59."
+          }
+        ],
+        "documentos_publicos": [
+          {
+            "posicao_id": 8,
+            "titulo": "Certidão de publicação no DJe (Certidão de publicação no DJe)",
+            "descricao": "",
+            "data": "03/12/2022",
+            "tipo": "DOCUMENTO_PUBLICO",
+            "unique_name": "tjba-PJE",
+            "size": 72503,
+            "is_on_s3": true,
+            "is_compressed": false,
+            "possivel_restrito": false,
+            "paginas": 3,
+            "updated_at": "30/01/2023 23:17:05",
+            "movid": 1,
+            "link_api": "https://api.escavador.com/api/v1/processo-tribunal/documentos-publicos/",
+            "extensao": "pdf"
+          }
+        ],
+        "audiencias": []
+      }
+    ]
+  },
+  "status": "SUCESSO",
+  "motivo_erro": null,
+  "status_callback": null,
+  "tipo": "BUSCA_PROCESSO",
+  "opcoes": {
+    "documentos_publicos": true
+  },
+  "tribunal": {
+    "sigla": "TJBA",
+    "nome": "Tribunal de Justiça da Bahia",
+    "busca_processo": 1,
+    "busca_nome": 1,
+    "busca_oab": 1,
+    "busca_documento": 1,
+    "disponivel_autos": 1,
+    "documentos_publicos": 1,
+    "quantidade_creditos_busca_processo": 5,
+    "quantidade_creditos_busca_nome": 7,
+    "quantidade_creditos_busca_documento": 7,
+    "quantidade_creditos_busca_oab": 7
+  },
+  "valor": "0000000-00.0000.0.00.0000"
+}

@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 de dez de 2022, 21:43:33
+    Author     : nelso
+*/
+
+input[type='number'] {
+    text-align: right;
+}
+footer.fixar-rodape{
+    border-top: 1px solid #333;
+    bottom: 0;
+    left: 2px;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+}
+
+body.report{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*input{
+text-align: right;
+}*/
