@@ -3,7 +3,7 @@
     <!-- Card body table -->
     <div class="card">
         <div class="card-header header-elements-inline">
-            <h5 class="card-title">Consulta Termos em Processos</h5>
+            <h5 class="card-title">Consulta Termos em Processos   [<?php echo $saldo; ?>]</h5>
             <div class="header-elements">
                 <div class="list-icons">
                     <a class="list-icons-item" data-action="collapse"></a>
@@ -17,14 +17,14 @@
             <!--<p class="mb-3">Example of a table placed inside <code>card body</code>. Such tables always have additional whitespace taken from <code>.card-body</code> element padding.</p>-->
             <form class="form-horizontal" action="<?php echo base_url() . $this->uri->segment(1); ?>/busca_termo" method="post" enctype="multipart/form-data">
                 <fieldset class="content-group"><!-- comment -->
-                    
+
                     <div class="form-group row">
                         <label class="control-label col-sm-4">TERMO DA BUSCA:</label>
                         <div class="col-sm-3">
                             <input  type="text" required="" class="form-control" placeholder="Termo a ser buscado" name="termodabusca" id="nome" value="">
                         </div>										
                     </div>
-                    
+
                     <div class="form-group row">
                         <label class="control-label col-sm-4">Tipo</label>
                         <div class="col-sm-3">

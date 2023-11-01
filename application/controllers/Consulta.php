@@ -44,10 +44,12 @@ class Consulta extends MY_Controller {
                 ],
             ]);
             $body = json_decode((string) $response->getBody());
+
             $data['items'] = $body->items;
             $data['paginator'] = $body->paginator;
             $data['links'] = $body->links;
         }
+        $data['saldo'] = $this->get_saldo($token)->saldo_descricao;
 
         $data['menu'] = 'consulta_termo';
         $data['meio'] = 'consulta/grid';
