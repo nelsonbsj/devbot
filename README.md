@@ -1,2 +1,2 @@
 # devbot
-Projeto de Controle Lanchonete
+Gestão de Processos Advocatícios
